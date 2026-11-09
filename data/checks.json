@@ -1,0 +1,18 @@
+{
+  "finite_noise": true,
+  "squeezed_not_worse_fiducial": true,
+  "covariance_optimum_checked": true,
+  "backaction_correlation_checked": true,
+  "search_equations_checked": true,
+  "nystrom_convergence_checked": true,
+  "nystrom_max_relative_field_shift": 1.682053448481824e-05,
+  "complex_response_checked": true,
+  "line_noise_flatness_checked": true,
+  "finite_sample_calibration_checked": true,
+  "figures": 8,
+  "rows": 620,
+  "mc_seed_sensitivity_checked": true,
+  "frequency_grid_valid": true,
+  "noise_dimensions_valid": true,
+  "unique_frequency_samples": 620
+}
